@@ -1,0 +1,7 @@
+title: "Data Analytics Portfolio"
+description: "Portfolio showcasing SQL and Tableau projects"
+theme: null
+remote_theme: alshedivat/al-folio
+
+plugins:
+  - jekyll-remote-theme
